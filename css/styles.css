@@ -11414,3 +11414,10 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.image img { float: center;
+  margin-left: 40px;
+  width: 250px;
+  height: 270PX;
+  border-radius: 15px;
+  margin-bottom: -7%;
+}
