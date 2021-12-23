@@ -11416,8 +11416,8 @@ section.resume-section .resume-section-content {
 }
 .image img { float: center;
   margin-left: 40px;
-  width: 250px;
-  height: 270PX;
+  width: 200px;
+  height: 230PX;
   border-radius: 15px;
-  margin-bottom: -7%;
+  margin-bottom: -10%;
 }
